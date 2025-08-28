@@ -314,7 +314,7 @@ comments:
     css: https://unpkg.com/artalk@2.9/dist/artalk.css
     js: https://unpkg.com/artalk@2.9/dist/artalk.js
     server: # 后端服务地址
-    site: '' # 站点名称
+    site: '玄龙的博客' # 站点名称
     darkMode: auto # 其它模式都有问题，慎用，否则后果自负
     fancybox: true # 是否为评论区启用 fancybox
     # artalk 有三类图片：1.上传至服务端 2.上传至服务端后利用upgit上传至图床 3.前端上传至图床（本配置为此类）
@@ -342,7 +342,7 @@ footer:
     #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/942ebbf1a4b91.svg"/>'
     #   url: /about/#comments
   sitemap:
-    # - title: 博客
+    # - title: 炫龙的博客
     #   items:
     #     - '[近期发布](/)'
     #     - '[分类](/blog/categories/)'
